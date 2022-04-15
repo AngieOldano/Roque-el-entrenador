@@ -1,6 +1,9 @@
-/** First Wollok example */
-object wollok {
-	method howAreYou() {
-		return 'I am Wolldoktastic!'
+object roque {
+	method entrenar() {
+  
+		pepita.volar(10)
+		pepita.comer(alpiste, 300)
+		pepita.volar(5)
+		pepita.haceLoQueQuieras()
 	}
 }
